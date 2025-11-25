@@ -1,1 +1,2 @@
-* xref:1918.adoc[列宁在1918]
+* xref:技能.adoc[]
+* xref:枪械.adoc[]
