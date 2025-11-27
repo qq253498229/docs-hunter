@@ -1,5 +1,5 @@
 site:
-  title: docs-hunter
+  title: 猎人-荒野的呼唤
   start_page: docs-hunter::index.adoc
 content:
   sources:
